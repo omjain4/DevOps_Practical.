@@ -1,1 +1,0 @@
-# DevOps_Practical. hello world.
